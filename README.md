@@ -24,7 +24,7 @@ git clone https://github.com/Azael-Dev/azael_ui-announcements-agency [local]/[az
 ensure azael_ui-announcements-agency
 ```
 
-# กฎหมาย
+## กฎหมาย
 ### ใบอนุญาต
 
 azael_ui-announcements-agency - ประกาศหน่วยงาน สำหรับ [azael_ui-announcements](https://fivem.azael.dev/digishop/azael-ui-announcements/)
