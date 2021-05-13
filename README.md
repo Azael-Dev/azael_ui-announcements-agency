@@ -34,7 +34,7 @@ azael_ui-announcements-agency - announcements สำหรับ [azael_ui-annou
 - ห้ามใช้ชิ้นส่วนใดๆ ของซอฟต์แวร์นี้ในผลิตภัณฑ์ / บริการเชิงพาณิชย์
 - ห้ามนำซอฟต์แวร์นี้ไปขายต่อ
 - คุณจะต้องไม่จัดหาสิ่งอำนวยความสะดวกใด ๆ ในการติดตั้งซอฟต์แวร์นี้ในผลิตภัณฑ์ / บริการเชิงพาณิชย์
-- หากคุณแจกจ่ายซอฟต์แวร์นี้ใหม่ คุณต้องเชื่อมโยงไปยังที่เก็บดั้งเดิมที่ [azael_ui-ประกาศ-agency](https://github.com/Azael-Dev/azael_ui-announcements-agency)
+- หากคุณแจกจ่ายซอฟต์แวร์นี้ใหม่ คุณต้องเชื่อมโยงไปยังที่เก็บดั้งเดิมที่ [azael_ui-announcements-agency](https://github.com/Azael-Dev/azael_ui-announcements-agency)
 - ลิขสิทธิ์นี้ควรปรากฏในทุกส่วนของรหัสโครงการ
 
 License (ENG): https://github.com/Azael-Dev/azael_ui-announcements-agency/blob/main/LICENSE
