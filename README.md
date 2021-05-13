@@ -27,7 +27,7 @@ ensure azael_ui-announcements-agency
 # กฎหมาย
 ### ใบอนุญาต
 
-azael_ui-announcements-agency - announcements สำหรับ [azael_ui-announcements](https://fivem.azael.dev/digishop/azael-ui-announcements/)
+azael_ui-announcements-agency - ประกาศหน่วยงาน สำหรับ [azael_ui-announcements](https://fivem.azael.dev/digishop/azael-ui-announcements/)
 
 ลิขสิทธิ์ (C) Azael Dev - สงวนลิขสิทธิ์
 
