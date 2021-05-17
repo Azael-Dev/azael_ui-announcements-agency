@@ -14,7 +14,7 @@ git clone https://github.com/Azael-Dev/azael_ui-announcements-agency [local]/[az
 ```
 
 ### ด้วยตนเอง
-- ดาวน์โหลด https://github.com/Azael-Dev/azael_ui-announcements-agency/archive/refs/heads/main.zip
+- ดาวน์โหลด https://github.com/Azael-Dev/azael_ui-announcements-agency/archive/refs/heads/master.zip
 - วางไว้ใน `[local]/[azael]/[ui]`
 
 ## ติดตั้ง
@@ -85,4 +85,4 @@ azael_ui-announcements-agency - ประกาศหน่วยงาน ส�
 - หากคุณแจกจ่ายซอฟต์แวร์นี้ใหม่ คุณต้องเชื่อมโยงไปยังที่เก็บดั้งเดิมที่ [azael_ui-announcements-agency](https://github.com/Azael-Dev/azael_ui-announcements-agency)
 - ลิขสิทธิ์นี้ควรปรากฏในทุกส่วนของรหัสโครงการ
 
-License (ENG): https://github.com/Azael-Dev/azael_ui-announcements-agency/blob/main/LICENSE
+License (ENG): https://github.com/Azael-Dev/azael_ui-announcements-agency/blob/master/LICENSE
