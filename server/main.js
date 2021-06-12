@@ -1,14 +1,3 @@
-//===== FiveM Script =========================================
-//= UI - Agency Announcements (Add-on)
-//===== Developed By: ========================================
-//= Azael Dev
-//===== Website: =============================================
-//= https://www.azael.dev
-//===== License: =============================================
-//= Copyright (C) Azael Dev - All Rights Reserved
-//= You are not allowed to sell this script
-//============================================================ 
-
 let ESX = false;
 
 if (GetResourceState(CONFIG.Routes.Extended.Resource) === 'started') {

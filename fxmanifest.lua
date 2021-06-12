@@ -10,7 +10,7 @@ version '1.0.0'
 
 author 'Azael Dev'
 
-url 'https://fivem.azael.dev/digishop/azael-ui-announcements'
+url 'https://github.com/Azael-Dev/azael_ui-announcements-agency'
 
 server_script {
 	'config.shared.js',
